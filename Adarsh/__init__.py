@@ -1,3 +1,3 @@
 import time
 StartTime = time.time()
-__version__ = 1.1
+__version__ = S 1.2
