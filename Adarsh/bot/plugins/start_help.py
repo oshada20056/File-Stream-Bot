@@ -26,8 +26,8 @@ if MY_PASS:
 else:
             buttonz=ReplyKeyboardMarkup(
             [
-                ["start⚡️","help📚","Gift💰"],
-                ["follow❤️","ping📡","status📊","owner😎"]
+                ["start⚡️","help📚"],
+                ["ping📡","status📊",]
                         
             ],
             resize_keyboard=True
